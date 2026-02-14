@@ -1,0 +1,31 @@
+txn_date,merchant,ingredient,qty,unit,unit_cost_gbp,amount_gbp,reference
+2020-03-10,Sysco UK,Beef Patty,12000,g,0.0120,144.00,INV-9001
+2020-03-10,Sysco UK,Regular Bun,400,unit,0.180,72.00,INV-9001
+2020-03-10,Sysco UK,Cheese Slice,800,unit,0.140,112.00,INV-9001
+2020-03-10,Sysco UK,Ketchup,6000,ml,0.0008,4.80,INV-9001
+2020-03-10,Sysco UK,Onion,3600,g,0.0015,5.40,INV-9001
+2020-03-10,FreshFarm Produce,Lettuce,6000,g,0.0025,15.00,INV-7711
+2020-03-10,FreshFarm Produce,Tomato,5000,g,0.0029,14.50,INV-7711
+2020-03-12,FreshFarm Produce,Lettuce,5200,g,0.0026,13.52,INV-7726
+2020-03-12,FreshFarm Produce,Pickles,2000,g,0.0032,6.40,INV-7726
+2020-03-12,Golden Spuds,Potatoes,50000,g,0.0012,60.00,INV-5530
+2020-03-11,DairyDirect,Milk,30000,ml,0.000060,1.80,INV-1113
+2020-03-14,DairyDirect,Milk,28000,ml,0.000061,1.71,INV-1120
+2020-03-10,Sysco UK,Mayonnaise,2800,ml,0.0015,4.20,INV-9001
+2020-03-10,Sysco UK,Mustard,3200,ml,0.0012,3.84,INV-9001
+2020-03-10,Sysco UK,Big Mac Sauce,1600,ml,0.0025,4.00,INV-9001
+2020-03-10,Sysco UK,Frying Oil,8500,ml,0.0018,15.30,INV-9001
+2020-03-10,Sysco UK,Salt,1100,g,0.0008,0.88,INV-9001
+2020-03-10,Sysco UK,Sugar,2200,g,0.0010,2.20,INV-9001
+2020-03-10,Sysco UK,Tartar Sauce,1300,ml,0.0022,2.86,INV-9001
+2020-03-10,Sysco UK,Nugget Batter,3800,g,0.0015,5.70,INV-9001
+2020-03-11,Poultry Direct,Chicken Nugget,13000,g,0.0095,123.50,INV-3501
+2020-03-11,Poultry Direct,Chicken Patty,6500,g,0.0110,71.50,INV-3501
+2020-03-12,Ocean Fresh,Fish Fillet,5500,g,0.0135,74.25,INV-5301
+2020-03-12,BakeMart,Sesame Bun,350,unit,0.195,68.25,INV-7901
+2020-03-12,BakeMart,Steamed Bun,200,unit,0.185,37.00,INV-7901
+2020-03-12,BakeMart,Pastry Dough,5000,g,0.0028,14.00,INV-7901
+2020-03-12,BakeMart,Apple Filling,3000,g,0.0032,9.60,INV-7901
+2020-03-12,BakeMart,Oreo Crumbs,1600,g,0.0045,7.20,INV-7901
+2020-03-11,DairyDirect,Ice Cream,8500,g,0.0038,32.30,INV-1113
+2020-03-13,Coffee Co,Espresso Shot,200,unit,0.145,29.00,INV-4601
