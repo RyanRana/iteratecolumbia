@@ -1,0 +1,65 @@
+actual_food,ingredient_name,ingredient_type,quantity_value,quantity_unit
+Big Mac,Beef Patty,protein,90,g
+Big Mac,Sesame Bun,bread,1,unit
+Big Mac,Lettuce,vegetable,30,g
+Big Mac,Cheese Slice,dairy,1,unit
+Big Mac,Big Mac Sauce,sauce,25,g
+Big Mac,Pickles,vegetable,15,g
+
+Quarter Pounder,Beef Patty,protein,113,g
+Quarter Pounder,Regular Bun,bread,1,unit
+Quarter Pounder,Cheese Slice,dairy,1,unit
+Quarter Pounder,Onion,vegetable,20,g
+Quarter Pounder,Ketchup,sauce,20,g
+Quarter Pounder,Mustard,sauce,10,g
+
+Cheeseburger,Beef Patty,protein,45,g
+Cheeseburger,Regular Bun,bread,1,unit
+Cheeseburger,Cheese Slice,dairy,1,unit
+Cheeseburger,Pickles,vegetable,10,g
+Cheeseburger,Ketchup,sauce,15,g
+Cheeseburger,Mustard,sauce,10,g
+
+Double Cheeseburger,Beef Patty,protein,90,g
+Double Cheeseburger,Regular Bun,bread,1,unit
+Double Cheeseburger,Cheese Slice,dairy,2,unit
+Double Cheeseburger,Pickles,vegetable,15,g
+Double Cheeseburger,Ketchup,sauce,20,g
+Double Cheeseburger,Mustard,sauce,15,g
+
+McChicken Sandwich,Chicken Patty,protein,100,g
+McChicken Sandwich,Regular Bun,bread,1,unit
+McChicken Sandwich,Lettuce,vegetable,25,g
+McChicken Sandwich,Mayonnaise,sauce,20,g
+
+Filet-O-Fish,Fish Fillet,protein,100,g
+Filet-O-Fish,Steamed Bun,bread,1,unit
+Filet-O-Fish,Cheese Slice,dairy,0.5,unit
+Filet-O-Fish,Tartar Sauce,sauce,30,g
+
+Chicken Nuggets 6pc,Chicken Nugget,protein,120,g
+Chicken Nuggets 6pc,Nugget Batter,grain,30,g
+Chicken Nuggets 6pc,Frying Oil,oil,15,g
+
+Fries Medium,Potatoes,vegetable,150,g
+Fries Medium,Frying Oil,oil,20,g
+Fries Medium,Salt,seasoning,3,g
+
+Fries Large,Potatoes,vegetable,200,g
+Fries Large,Frying Oil,oil,25,g
+Fries Large,Salt,seasoning,4,g
+
+McFlurry Oreo,Ice Cream,dairy,200,g
+McFlurry Oreo,Oreo Crumbs,grain,30,g
+
+Apple Pie,Apple Filling,fruit,120,g
+Apple Pie,Pastry Dough,grain,80,g
+Apple Pie,Sugar,seasoning,20,g
+Apple Pie,Frying Oil,oil,10,g
+
+McCafe Latte,Espresso Shot,coffee,30,ml
+McCafe Latte,Milk,dairy,200,ml
+
+Hash Brown,Potatoes,vegetable,140,g
+Hash Brown,Frying Oil,oil,15,g
+Hash Brown,Salt,seasoning,3,g
