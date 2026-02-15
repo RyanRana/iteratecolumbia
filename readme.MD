@@ -2,6 +2,8 @@
 
 TRACE helps you manage retail supply chains by having agents handle it. Fund agents with crypto (USDC, USDT, ETH, SOL, BTC) or card, then describe what you need—e.g. "restock laptops for Q1", "pay the vendor every 4 days", or "what would sell fastest around the holidays"—and it processes your request and sends agents to analyze your data, research macro trends, and execute secure smart contracts to any vendor.
 
+iterate columbia ai anthropic hackathon
+
 **[See Demo](./demo.mov)** · **[Architecture](./flow%20model.svg)**
 
 ---
