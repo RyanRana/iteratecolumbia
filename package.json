@@ -1,0 +1,16 @@
+{
+  "name": "iteratecolumbia",
+  "private": true,
+  "description": "TRACE – Trade & Retail Agent for Chain Efficiency",
+  "scripts": {
+    "dev": "concurrently -n search,app -c blue,green \"npm run dev:search\" \"npm run dev:app\"",
+    "dev:app": "npm run dev --prefix apps/trace",
+    "dev:search": "node services/search/index.js",
+    "build": "npm run build --prefix apps/trace",
+    "start": "npm run start --prefix apps/trace",
+    "generate-inventory": "python3 scripts/generate_synthetic_inventory.py"
+  },
+  "devDependencies": {
+    "concurrently": "^8.2.2"
+  }
+}

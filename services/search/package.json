@@ -1,0 +1,9 @@
+{
+  "name": "trace-search-api",
+  "private": true,
+  "description": "Search API for TRACE product catalog",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  }
+}
